@@ -1,0 +1,4 @@
+This website will generator password with range of minimum 1 to maximum 20.
+It will contain lowercase characters , uppercase characters , numberical values and symbols .
+Each time it generates a new password which can also be copied in clipboard.
+Totally made up of html , css and Javascript
